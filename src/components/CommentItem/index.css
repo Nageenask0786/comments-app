@@ -1,0 +1,117 @@
+.amber {
+  background-color: #f59e0b;
+  border-radius: 50%;
+}
+
+.blue {
+  background-color: #0b69ff;
+  border-radius: 50%;
+}
+
+.orange {
+  background-color: #f97316;
+  border-radius: 50%;
+}
+
+.emerald {
+  background-color: #10b981;
+  border-radius: 50%;
+}
+
+.teal {
+  background-color: #14b8a6;
+  border-radius: 50%;
+}
+
+.red {
+  background-color: #b91c1c;
+  border-radius: 50%;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  border-radius: 50%;
+}
+.amber {
+  background-color: #f59e0b;
+  border-radius: 50%;
+}
+
+.blue {
+  background-color: #0b69ff;
+  border-radius: 50%;
+}
+
+.orange {
+  background-color: #f97316;
+  border-radius: 50%;
+}
+
+.emerald {
+  background-color: #10b981;
+  border-radius: 50%;
+}
+
+.teal {
+  background-color: #14b8a6;
+  border-radius: 50%;
+}
+
+.red {
+  background-color: #b91c1c;
+  border-radius: 50%;
+}
+
+/* Write your CSS here */
+.list-items {
+  display: flex;
+  list-style-type: none;
+  flex-direction: column;
+}
+
+.comment-item {
+  height: 30px;
+  width: 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 12px;
+}
+.name {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 6px;
+}
+.align1 {
+  display: flex;
+  justify-content: space-between;
+}
+.date {
+  font-family: 'Roboto';
+  color: #cbd2d9;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 6px;
+}
+.comment {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 6px;
+}
+.like {
+  font-family: 'Roboto';
+  color: #0b69ff;
+  background-color: transparent;
+  border: 0px;
+  margin-top: 0px;
+}
+.like-image {
+  height: 30px;
+  width: 30px;
+}
